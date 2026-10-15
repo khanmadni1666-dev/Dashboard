@@ -1,6 +1,6 @@
 // src/components/users/AddUserForm.jsx
 import { useState } from 'react';
-import PersonalInfoSection from './add-users-sections/PersonalInfosection';
+import PersonalInfoSection from './add-users-sections/PersonalInfoSection';
 import TeamSection from './add-users-sections/TeamSection';
 import BillingSection from './add-users-sections/BillingSection';
 import NotificationsSection from './add-users-sections/NotificationsSection';
